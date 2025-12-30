@@ -160,6 +160,8 @@ export default function Footer() {
                   </motion.a>
                 ))}
               </div>
+              
+                <Link href="/funnel/ads-home" className="bg-orange-600 mt-6 text-white hover:bg-orange-500 px-0 justify-center py-3 rounded-xl font-bold flex items-center gap-2 group shadow-xl shadow-orange-600/20 transition-all cursor-not-allowed opacity-50">AdsHome</Link>
             </motion.div>
           </motion.div>
         </motion.div>
