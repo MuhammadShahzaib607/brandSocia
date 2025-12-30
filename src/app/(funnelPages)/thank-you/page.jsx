@@ -11,7 +11,7 @@ const [username, setUsername] = useState("Guest");
 useEffect(() => {
     const storedName = sessionStorage.getItem("fullname");
     if (storedName) {
-      setUsername(storedName);
+      setUsername(storedName); // save username
     }
   }, []);
 
