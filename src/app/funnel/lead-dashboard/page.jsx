@@ -97,10 +97,11 @@ const LeadDashboard = () => {
             </h1>
             <p className="text-gray-500 text-sm mt-1 uppercase tracking-widest font-bold">Control Panel v1.0</p>
           </div>
-          <Link href="/funnel/adsHome" className="flex items-center justify-center gap-2 bg-[#161616] border border-white/5 px-6 py-3 rounded-xl hover:border-orange-500/50 transition-all text-xs font-black uppercase tracking-widest cursor-pointer">
+          <Link href="/funnel/ads-home" className="flex items-center justify-center gap-2 bg-[#161616] border border-white/5 px-6 py-3 rounded-xl hover:border-orange-500/50 transition-all text-xs font-black uppercase tracking-widest cursor-pointer">
             <FaArrowLeft /> Back to Home
           </Link>
         </div>
+        
 
         {/* Filters & Search */}
         <div className="grid grid-cols-1 lg:grid-cols-4 gap-4 mb-8">
