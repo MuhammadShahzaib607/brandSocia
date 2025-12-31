@@ -14,7 +14,7 @@ import { useRouter } from 'next/navigation'; // Next.js navigation hook
 const LeadDashboard = () => {
   const [leads, setLeads] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [filter, setFilter] = useState('all'); 
+  const [filter, setFilter] = useState('all');  
   const [searchTerm, setSearchTerm] = useState('');
 
   const router = useRouter();
