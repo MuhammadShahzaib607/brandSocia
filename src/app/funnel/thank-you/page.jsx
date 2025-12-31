@@ -69,7 +69,7 @@ useEffect(() => {
         </div>
 
         {/* Return Button */}
-        <Link href="/funnel/adsHome"
+        <Link href="/funnel/ads-home"
         onClick={()=> sessionStorage.removeItem("fullname")}
           className="group inline-flex items-center gap-2 text-gray-400 hover:text-orange-500 font-bold uppercase tracking-[0.2em] text-[10px] transition-all cursor-pointer"
         >
