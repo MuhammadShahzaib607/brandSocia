@@ -1,5 +1,93 @@
-
 export const blogPosts = [
+  {
+    title: "How to Find Top Node JS Development Teams",
+    slug: "find-best-nodejs-development-companies",
+    date: "june 13, 2025",
+    author: "BrandSocia",
+    category: "Web Development",
+    image: "https://plus.unsplash.com/premium_photo-1661414473396-4600573d1f33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8amF2YXNjcmlwdCUyMGRldmVsb3BlciUyMHdvcmtzcGFjZXxlbnwwfHwwfHx8MA%3D%3D",
+    excerpt: "Learn how to choose the right Node.js partner to build fast, scalable, and modern web applications.",
+    content: `
+      <p>Finding the right Node.js company can be tough because there are so many choices. This guide will help you understand what makes a great development partner for your next big project.</p>
+      
+      <h2>1. Why Choose Node.js?</h2>
+      <p>Node.js is famous for its speed and ability to handle many users at once. Big brands like PayPal and Uber use it because it makes apps load faster and run smoother. If you want to see more tech tips, visit our <a href="/blog">expert blog section</a>.</p>
+      
+      <h2>2. Fast Performance and Scaling</h2>
+      <p>Node.js uses Google’s V8 engine, which means your website will be incredibly quick. It is also very easy to scale; as your business grows and gets more visitors, Node.js can handle the extra traffic without any major problems.</p>
+
+      <h2>3. Real-Time Capabilities</h2>
+      <p>If your app needs live chat, instant notifications, or constant updates, Node.js is the perfect choice. It was built to handle real-time data efficiently, making it ideal for modern streaming and social media platforms.</p>
+      
+      <h2>4. One Language for Everything</h2>
+      <p>With Node.js, developers use JavaScript for both the front and back of your website. This makes the work faster, reduces mistakes, and lowers your overall development costs since the team stays in sync easily.</p>
+      
+      <h2>5. Choosing the Right Partner</h2>
+      <p>Don't just hire anyone. Look for a team that has a proven track record and understands your business goals. A good partner will help you use the rich ecosystem of Node.js to build a secure and powerful application.</p>
+      
+      <p>Ready to build your next project? Contact <a href="/">BrandSocia</a> today to find the best development solutions for your business.</p>
+    `
+},
+{
+  title: "How AI is Changing the Modern Enterprise",
+    slug: "ai-enablement-enterprise-architecture",
+    date: "May 10, 2025",
+    author: "BrandSocia",
+    category: "Technology",
+    image: "https://media.istockphoto.com/id/2195607659/photo/ai-artificial-intelligence-technology-for-data-analysis-research-planning-and-work-generate.webp?a=1&b=1&s=612x612&w=0&k=20&c=nqgzw4nlXTa--oa_J0s0_z--mSMRVu7Dhmhg1SWKwEQ=",
+    excerpt: "Learn how AI and Enterprise Architecture work together to drive business growth and innovation.",
+    content: `
+      <h2>AI: The Future of Business is Here</h2>
+      <p>Artificial Intelligence is no longer just a buzzword; it is actively transforming industries like healthcare, finance, and retail. By using AI, companies can make better decisions, automate boring tasks, and stay ahead of the competition. To see how other tech trends are evolving, check out our <a href="/blog">latest articles</a>.</p>
+      
+      <h2>The Role of Enterprise Architecture (EA)</h2>
+      <p>Enterprise Architects are the real heroes behind successful AI integration. They create a clear plan to make sure AI tools align with the company's goals. Instead of just adding a "cool tool," they ensure that AI solves real business problems and adds measurable value to the organization.</p>
+
+      <h2>Top AI Use Cases</h2>
+      <ul>
+        <li><strong>Manufacturing:</strong> Predicting when machines need repair to avoid costly downtime.</li>
+        <li><strong>Finance:</strong> Using smart systems to detect and stop fraudulent transactions instantly.</li>
+        <li><strong>Retail:</strong> Tracking customer habits to manage stock perfectly and reduce waste.</li>
+      </ul>
+
+      <h2>Ethics and Smart Integration</h2>
+      <p>Using AI isn't just about the tech; it's about doing it right. Companies must follow privacy laws like GDPR and ensure their AI is fair and unbiased. Moreover, AI should never work in isolation. It needs to be connected to existing systems like CRM and databases to be truly effective.</p>
+
+      <h2>Key Takeaway for Businesses</h2>
+      <p>To succeed with AI, start small with pilot projects and scale up fast. Establish a proper governance board to guide your strategy and always track your progress with clear goals. AI is a journey of continuous learning and evolution.</p>
+      
+      <p>For expert advice on digital transformation and smart branding, visit <a href="/">BrandSocia</a> today and let's grow together.</p>
+    `
+},  
+ {
+    title: "Systems Ventures Invests in JOMO",
+    slug: "systems-ventures-jomo-investment",
+    date: "April 28, 2025",
+    author: "BrandSocia",
+    category: "Business News",
+    image: "https://plus.unsplash.com/premium_photo-1661342459796-41fcd0f22c6d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8YnVzaW5lc3MlMjBpbnZlc3RtZW50JTIwbWVldGluZ3xlbnwwfHwwfHx8MA%3D%3D",
+    excerpt: "Systems Ventures partners with JOMO to support and grow Pakistan's digital fashion market.",
+    content: `
+      <h2>Systems Ventures and JOMO Join Forces</h2>
+      <p>Systems Limited, through its branch Systems Ventures, has recently invested in JOMO. This move is part of a bigger plan to support innovative Pakistani businesses. You can find more updates and <a href="/blog">interesting blogs</a> about such digital shifts on our platform.</p>
+      
+      <h2>Why JOMO?</h2>
+      <p>JOMO has quickly become a leader in the online fashion world. Their unique way of doing business and focus on quality has helped them grow faster than many others. Because of this success, Systems Ventures is excited to work alongside other big names like Sapphire Group and The Services Group on JOMO’s board.</p>
+
+      <h2>A Word from the Leaders</h2>
+      <p>Ali Khan-Bajauri, the CEO of JOMO, shared his excitement about having a global tech giant like Systems as a partner. He mentioned that this partnership will help JOMO set high standards in fashion, data, and technology.</p>
+      <p>Asif Peer, CEO of Systems Limited, also praised JOMO’s 'Try before you buy' model and their fast delivery service. He believes JOMO is a trendsetter that will inspire other online businesses in Pakistan.</p>
+
+      <h2>Building a Digital Future</h2>
+      <p>This investment isn't just about money; it's about building a better digital marketplace in Pakistan. By supporting companies like JOMO, Systems Ventures aims to create more jobs and help the country's economy grow.</p>
+      
+      <h3>About the Partners</h3>
+      <p><strong>Systems Limited:</strong> A global technology leader from Pakistan with decades of experience in innovation and software services.</p>
+      <p><strong>JOMO:</strong> A popular fashion e-commerce site that offers top brands like Nike and Sapphire, known for its hassle-free shopping experience.</p>
+      
+      <p>To learn more about digital marketing and brand building, visit <a href="/" >BrandSocia</a> today.</p>
+    `
+},
   {
     title: "10 Social Media Trends for 2025",
     slug: "social-media-trends-2025",
